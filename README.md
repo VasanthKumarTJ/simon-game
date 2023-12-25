@@ -1,4 +1,4 @@
-#Simon Game
+#Simon game
 Welcome to the Simon Game repository! This interactive web application is a digital adaptation of the classic Simon electronic game. Test your memory and pattern recognition skills by following the sequence of lights and sounds.
 
 ##Features
